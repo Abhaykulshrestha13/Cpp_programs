@@ -6,7 +6,6 @@ public :
     void display(){
        cout<<"Hello I am a human being";
    }
-
 };
 
 
